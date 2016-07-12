@@ -1,0 +1,4 @@
+obeliks:
+  build: ./docker
+  volumes:
+    - ./data/obeliks:/obeliks
