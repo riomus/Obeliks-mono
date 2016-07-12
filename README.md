@@ -1,7 +1,7 @@
 # Obeliks-mono
 Docker wrapper for Obeliks. 
-[https://sourceforge.net/projects/obeliks/](Obeliks) is POS tagger and lemmatizer for slovenian language.
-Test web service for Obeliks can be found [http://oznacevalnik.slovenscina.eu/Vsebine/Sl/SpletniServis/SpletniServis.aspx](here)
+[Obeliks](https://sourceforge.net/projects/obeliks/) is POS tagger and lemmatizer for slovenian language.
+Test web service for Obeliks can be found [here](http://oznacevalnik.slovenscina.eu/Vsebine/Sl/SpletniServis/SpletniServis.aspx)
 
 
 # how to use
