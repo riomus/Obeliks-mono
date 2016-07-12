@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<p>
+				<s>
+					<w msd="Ppnzei" lemma="generalen">Generalna</w>
+					<S/>
+					<w msd="Sozei" lemma="skupščina">skupščina</w>
+					<S/>
+					<w msd="Ggnste" lemma="razglašati">razglaša</w>
+					<S/>
+					<w msd="Zk-zet" lemma="ta">to</w>
+					<S/>
+					<w msd="Ppnzet" lemma="splošen">splošno</w>
+					<S/>
+					<w msd="Sozet" lemma="deklaracija">deklaracijo</w>
+					<S/>
+					<w msd="Psnzmr" lemma="človekov">človekovih</w>
+					<S/>
+					<w msd="Sozmr" lemma="pravica">pravic</w>
+					<S/>
+					<w msd="Vd" lemma="kot">kot</w>
+					<S/>
+					<w msd="Ppnmein" lemma="skupen">skupen</w>
+					<S/>
+					<w msd="Somei" lemma="ideal">ideal</w>
+					<S/>
+					<w msd="Zc-mmr" lemma="ves">vseh</w>
+					<S/>
+					<w msd="Sosmr" lemma="ljudstvo">ljudstev</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Zc-mmr" lemma="ves">vseh</w>
+					<S/>
+					<w msd="Sommr" lemma="narod">narodov</w>
+					<S/>
+					<w msd="Do" lemma="z">z</w>
+					<S/>
+					<w msd="Someo" lemma="namen">namenom</w>
+					<c>,</c>
+					<S/>
+					<w msd="Vd" lemma="da">da</w>
+					<S/>
+					<w msd="Gp-g" lemma="biti">bi</w>
+					<S/>
+					<w msd="Zc-mmi" lemma="ves">vsi</w>
+					<S/>
+					<w msd="Sommi" lemma="organ">organi</w>
+					<S/>
+					<w msd="Sozer" lemma="družba">družbe</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Zc-mmi" lemma="ves">vsi</w>
+					<S/>
+					<w msd="Sommi" lemma="posameznik">posamezniki</w>
+					<c>,</c>
+					<S/>
+					<w msd="Rsn" lemma="vedno">vedno</w>
+					<S/>
+					<w msd="Dm" lemma="v">v</w>
+					<S/>
+					<w msd="Somem" lemma="sklad">skladu</w>
+					<S/>
+					<w msd="Do" lemma="z">s</w>
+					<S/>
+					<w msd="Zk-zeo" lemma="ta">to</w>
+					<S/>
+					<w msd="Sozeo" lemma="deklaracija">Deklaracijo</w>
+					<c>,</c>
+					<S/>
+					<w msd="Dm" lemma="pri">pri</w>
+					<S/>
+					<w msd="Somem" lemma="pouk">pouku</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Sozem" lemma="vzgoja">vzgoji</w>
+					<S/>
+					<w msd="Ggnd-mm" lemma="razvijati">razvijali</w>
+					<S/>
+					<w msd="Soset" lemma="spoštovanje">spoštovanje</w>
+					<S/>
+					<w msd="Zk-zmr" lemma="ta">teh</w>
+					<S/>
+					<w msd="Sozmr" lemma="pravica">pravic</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Sozmr" lemma="svoboščina">svoboščin</w>
+					<S/>
+					<w msd="Vp" lemma="ter">ter</w>
+					<S/>
+					<w msd="Do" lemma="z">s</w>
+					<S/>
+					<w msd="Ppnzmo" lemma="postopen">postopnimi</w>
+					<S/>
+					<w msd="Ppnmmo" lemma="državen">državnimi</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Ppnmmo" lemma="mednaroden">mednarodnimi</w>
+					<S/>
+					<w msd="Sommo" lemma="ukrep">ukrepi</w>
+					<S/>
+					<w msd="Ggdd-mm" lemma="zagotoviti">zagotovili</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Ggdd-mm" lemma="zavarovati">zavarovali</w>
+					<S/>
+					<w msd="Zstzetm" lemma="njihov">njihovo</w>
+					<S/>
+					<w msd="Ppnset" lemma="splošen">splošno</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Ppnset" lemma="resničen">resnično</w>
+					<S/>
+					<w msd="Soset" lemma="priznanje">priznanje</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Soset" lemma="spoštovanje">spoštovanje</w>
+					<c>,</c>
+					<S/>
+					<w msd="Rsn" lemma="tako">tako</w>
+					<S/>
+					<w msd="Do" lemma="med">med</w>
+					<S/>
+					<w msd="Sommo" lemma="narod">narodi</w>
+					<S/>
+					<w msd="Sozmr" lemma="država">držav</w>
+					<S/>
+					<w msd="Sozmr" lemma="članica">članic</w>
+					<S/>
+					<w msd="Ppnmmr" lemma="sam">samih</w>
+					<c>,</c>
+					<S/>
+					<w msd="Vd" lemma="kakor">kakor</w>
+					<S/>
+					<w msd="L" lemma="tudi">tudi</w>
+					<S/>
+					<w msd="Do" lemma="med">med</w>
+					<S/>
+					<w msd="Sosmo" lemma="ljudstvo">ljudstvi</w>
+					<S/>
+					<w msd="Sosmr" lemma="ozemlje">ozemelj</w>
+					<S/>
+					<w msd="Do" lemma="pod">pod</w>
+					<S/>
+					<w msd="Zstzetm" lemma="njihov">njihovo</w>
+					<S/>
+					<w msd="Sozeo" lemma="oblast">oblastjo</w>
+					<c>.</c>
+				</s>
+			</p>
+		</body>
+	</text>
+</TEI>

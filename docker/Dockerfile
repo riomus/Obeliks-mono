@@ -2,4 +2,4 @@ FROM mono
 ADD assets /assets
 
 
-CMD ["/assets/test.sh"]
+CMD ["/assets/run.sh"]
