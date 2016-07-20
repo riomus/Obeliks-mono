@@ -3,6 +3,7 @@ Docker wrapper for Obeliks.
 [Obeliks](https://sourceforge.net/projects/obeliks/) is POS tagger and lemmatizer for slovenian language.
 Test web service for Obeliks can be found [here](http://oznacevalnik.slovenscina.eu/Vsebine/Sl/SpletniServis/SpletniServis.aspx)
 
+Image is available on [Docker HUB](https://hub.docker.com/r/riomus/obeliks-mono/)
 
 # how to use
 ```
