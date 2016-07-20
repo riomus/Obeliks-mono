@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<p>
+				<s>
+					<w msd="Somei" lemma="festival">Festival</w>
+					<S/>
+					<w msd="Ppnzer" lemma="sodoben">sodobne</w>
+					<S/>
+					<w msd="Sozer" lemma="umetnost">umetnosti</w>
+					<S/>
+					<w msd="Slmei" lemma="Art">Art</w>
+					<S/>
+					<w msd="Slmei" lemma="Stays">Stays</w>
+					<S/>
+					<w msd="Gp-ste-n" lemma="biti">je</w>
+					<S/>
+					<w msd="Rsn" lemma="ponovno">ponovno</w>
+					<S/>
+					<w msd="Ggdd-em" lemma="privabiti">privabil</w>
+					<S/>
+					<w msd="Dt" lemma="na">na</w>
+					<S/>
+					<w msd="Slmetn" lemma="Ptuj">Ptuj</w>
+					<S/>
+					<w msd="Rsr" lemma="več">več</w>
+					<S/>
+					<w msd="Vd" lemma="kot">kot</w>
+					<S/>
+					<w msd="Kag" lemma="100">100</w>
+					<S/>
+					<w msd="Sommr" lemma="umetnik">umetnikov</w>
+					<c>,</c>
+					<S/>
+					<w msd="Vd" lemma="ki">ki</w>
+					<S/>
+					<w msd="Gp-stm-n" lemma="biti">so</w>
+					<S/>
+					<w msd="Ggnd-mm" lemma="ustvarjati">ustvarjali</w>
+					<S/>
+					<w msd="Dt" lemma="na">na</w>
+					<S/>
+					<w msd="Sozet" lemma="tema">temo</w>
+					<S/>
+					<w msd="Sozer" lemma="politika">politike</w>
+					<c>.</c>
+					<S/>
+				</s>
+				<s>
+					<w msd="Sommi" lemma="umetnik">Umetniki</w>
+					<S/>
+					<w msd="Gp-stm-n" lemma="biti">so</w>
+					<S/>
+					<w msd="Zp------k" lemma="se">se</w>
+					<S/>
+					<w msd="L" lemma="že">že</w>
+					<S/>
+					<w msd="Ggdd-mm" lemma="vrniti">vrnili</w>
+					<S/>
+					<w msd="Rsn" lemma="domov">domov</w>
+					<c>,</c>
+					<S/>
+					<w msd="Zstsmtm" lemma="njihov">njihova</w>
+					<S/>
+					<w msd="Sosmi" lemma="delo">dela</w>
+					<S/>
+					<w msd="Vp" lemma="pa">pa</w>
+					<S/>
+					<w msd="Ggnstm" lemma="ostajati">ostajajo</w>
+					<S/>
+					<w msd="Dt" lemma="na">na</w>
+					<S/>
+					<w msd="Sometn" lemma="ogled">ogled</w>
+					<S/>
+					<w msd="Dr" lemma="do">do</w>
+					<S/>
+					<w msd="Somer" lemma="september">septembra</w>
+					<c>.</c>
+					<S/>
+				</s>
+				<s>
+					<w msd="Rsn" lemma="tako">Tako</w>
+					<S/>
+					<w msd="Zp------k" lemma="se">se</w>
+					<S/>
+					<w msd="Gp-ste-n" lemma="biti">je</w>
+					<S/>
+					<w msd="Dt" lemma="na">na</w>
+					<S/>
+					<w msd="Sometn" lemma="primer">primer</w>
+					<S/>
+					<w msd="L" lemma="še">še</w>
+					<S/>
+					<w msd="Rsn" lemma="vedno">vedno</w>
+					<S/>
+					<w msd="Rsn" lemma="moč">moč</w>
+					<S/>
+					<w msd="Ggdn" lemma="postaviti">postaviti</w>
+					<S/>
+					<w msd="Dt" lemma="ob">ob</w>
+					<S/>
+					<w msd="Sometn" lemma="bok">bok</w>
+					<S/>
+					<w msd="Ppnmmd" lemma="bronast">bronastim</w>
+					<S/>
+					<w msd="Sommd" lemma="žvižgač">žvižgačem</w>
+					<S/>
+					<w msd="Do" lemma="pred">pred</w>
+					<S/>
+					<w msd="Ppnzeo" lemma="mesten">mestno</w>
+					<S/>
+					<w msd="Sozeo" lemma="hiša">hišo</w>
+					<S/>
+					<w msd="Vp" lemma="in">in</w>
+					<S/>
+					<w msd="Ggdn" lemma="premagati">premagati</w>
+					<S/>
+					<w msd="Sometn" lemma="strah">strah</w>
+					<S/>
+					<w msd="Do" lemma="pred">pred</w>
+					<S/>
+					<w msd="Soseo" lemma="nerazumevanje">nerazumevanjem</w>
+					<S/>
+					<w msd="Ppnzer" lemma="sodoben">sodobne</w>
+					<S/>
+					<w msd="Sozer" lemma="umetnost">umetnosti</w>
+					<c>.</c>
+				</s>
+			</p>
+		</body>
+	</text>
+</TEI>

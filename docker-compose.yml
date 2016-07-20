@@ -2,5 +2,5 @@ obeliks:
   build: ./docker
   volumes:
     - ./data/obeliks:/obeliks
-    - ./data/data.txt:/data.txt
+    - ./data/input:/input
     - ./data/out:/out
