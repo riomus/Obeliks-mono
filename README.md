@@ -9,5 +9,5 @@ Test web service for Obeliks can be found [here](http://oznacevalnik.slovenscina
 docker-compose up
 ````
 
-Content of file `./data/data.txt` will be processed and output will be printed to `stdout`. Output can be also found in `./data/data.xml`
+Content of files in `./data/input/` will be processed and the stdin output of Obeliks will be saved in `./data/out/output`. The XML output will be saved in `./data/out/xml/` separately for every file found in `./data/input/`
 
